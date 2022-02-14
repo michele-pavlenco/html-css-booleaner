@@ -1,8 +1,25 @@
 header{
     background-image: url(../img/pattern.png);
     background-color: rgb(93, 155, 248);
-    background-size: cover ;
+    background-size: auto 200px;
+    height: 100px ;
+
 }
 #logo{
-
+    width: 25%;
+}
+#grey-text{
+    color: lightslategray;
+}
+#thebooleaner{
+    color: rgb(67, 136, 226);
+}
+table{
+    size: ;
+}
+#blue-table{
+    background-color: #0579ff;
+}
+#lighthblue-table{
+    background-color: lightskyblue;
 }
